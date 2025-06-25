@@ -1,3 +1,4 @@
 homepage: 'https://socialCAPI.com/'
 versions:
   - sha: 29fa50591dad2673281a503fab1b49738f2c9fbd
+    changeNotes: Add Facebokk CAPI
