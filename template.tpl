@@ -494,7 +494,7 @@ debugLog('Template data received:', data);
 // Get configuration
 const apiUrl = data.useFirstPartyDomain && data.firstPartyUrl ? 
   data.firstPartyUrl : 
-  'https://apidev.piotrlitwa.pl/api/v1/capi/event';
+  'https://api.socialcapi.com/api/v1/capi/event';
 
 debugLog('Configuration loaded:');
 debugLog('API URL:', apiUrl);
