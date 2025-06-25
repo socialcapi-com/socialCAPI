@@ -1,4 +1,6 @@
 homepage: 'https://socialCAPI.com/'
 versions:
+  - sha: a3b952e80e3c5719dc1a03832ea34acab018172d
+    changeNotes: Change EndPoint
   - sha: 29fa50591dad2673281a503fab1b49738f2c9fbd
     changeNotes: Add Facebokk CAPI
