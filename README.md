@@ -44,15 +44,15 @@ A comprehensive Google Tag Manager template for seamless Facebook Conversion API
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/social-capi-gtm.git
+git clone https://github.com/piotrlitwa/social-capi-gtm.git
 cd social-capi-gtm
 ```
 
 ### GTM Import
 
 1. **Download Template**:
-   - Download `template.tpl` from [releases](../../releases)
-   - Or copy the template code from `paste.txt`
+   - Copy the template code from `paste.txt` in this repository
+   - Or download when releases become available
 
 2. **Import to GTM**:
    ```
@@ -234,9 +234,9 @@ Recommendation: Add email, phone, or external ID for better attribution.
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
+We welcome contributions to the SocialCAPI project! Please follow these steps:
 
-1. Fork the repository
+1. Fork the repository from [piotrlitwa/social-capi-gtm](https://github.com/piotrlitwa/social-capi-gtm)
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
@@ -245,17 +245,26 @@ We welcome contributions! Please follow these steps:
 ### Development Guidelines
 
 - Follow GTM template best practices
-- Add tests for new functionality
+- Add tests for new functionality  
 - Update documentation for any changes
 - Ensure debug logging works properly
+
+### Author
+
+This template was created by **Piotr Litwa** as part of the SocialCAPI project - a comprehensive solution for Social Media Conversion API integrations.
 
 ## 📞 Support
 
 ### Getting Help
 
-- **Issues**: [Create an issue](../../issues) for bugs or feature requests
-- **Discussions**: [Start a discussion](../../discussions) for questions
 - **Documentation**: Check this README and inline code comments
+- **Issues**: Create GitHub issues when repository is published
+- **Questions**: Contact via project maintainer
+
+<!-- When repository is live, uncomment:
+- **Issues**: [Create an issue](../../issues) for bugs or feature requests  
+- **Discussions**: [Start a discussion](../../discussions) for questions
+-->
 
 ### Debugging Steps
 
@@ -270,13 +279,20 @@ This template is available under the [Google Tag Manager Community Template Gall
 
 ## 📊 Project Status
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/username/social-capi-gtm)
-![GitHub issues](https://img.shields.io/github/issues/username/social-capi-gtm)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/username/social-capi-gtm)
+<!-- Uncomment and update when repository is created
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/social-capi-gtm)
+![GitHub issues](https://img.shields.io/github/issues/yourusername/social-capi-gtm)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/social-capi-gtm)
+-->
+
+**Current Status**: Initial Release  
+**Repository**: Not yet published  
+**Template Version**: 1.0
 
 ---
 
 **Version**: 1.0  
 **Compatibility**: GTM Web Container  
 **Last Updated**: June 2025  
-**Maintained by**: [SocialCAPI](https://github.com/socialcapi-com)
+**Created by**: [Piotr Litwa](https://github.com/piotrlitwa)  
+**Project**: [SocialCAPI](https://github.com/socialcapi-com) - Social Media Conversion API Integration
