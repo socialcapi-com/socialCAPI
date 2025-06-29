@@ -279,4 +279,4 @@ This template is available under the [Google Tag Manager Community Template Gall
 **Version**: 1.0  
 **Compatibility**: GTM Web Container  
 **Last Updated**: June 2025  
-**Maintained by**: [Your Name](https://github.com/yourusername)
+**Maintained by**: [SocialCAPI](https://github.com/socialcapi-com)
