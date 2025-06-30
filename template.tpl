@@ -12,7 +12,7 @@ ___INFO___
   "type": "TAG",
   "id": "cvt_SOCIAL_CAPI",
   "version": 1,
-  "displayName": "SocialCAPI.com",
+  "displayName": "SocialCAPI Facebook Conversion API",
   "brand": {
     "id": "github.com_social_capi",
     "displayName": "Social CAPI - Conversion API integration"
